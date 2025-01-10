@@ -53,7 +53,7 @@ Proje Visual Studio Code ve Kaggle ortamında geliştirilmiştir.
   <img src="https://repository-images.githubusercontent.com/397962098/eac3047e-49e5-442b-9abf-a1d03e316a78" height="300" alt=""  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1920px-Visual_Studio_Code_1.35_icon.svg.png" height="300" alt=""  />
 </div>
-
+<br>
 
 
 ## Doğruluk Oranları Grafiği
@@ -61,14 +61,14 @@ Proje Visual Studio Code ve Kaggle ortamında geliştirilmiştir.
   <img src="https://github.com/realmir1/Eyesfourclas/blob/main/Ekran%20Resmi%202025-01-10%2013.40.04.png?raw=true" height="300" alt=""  />
 
 </div>
-
+<br>
 ## Proje Örnek Çıktısı
 
 <div align="center">
   <img src="https://github.com/realmir1/Eyesfourclas/blob/main/Ekran%20Resmi%202025-01-10%2013.39.14.png?raw=true" height="300" alt=""  />
 </div>
 
-
+<br>
 ## Glokom Nedir ?
 
 Glokom, göziçi sıvısının iyi boşalmaması yüzünden göz tansiyonunun artması. Halk arasında göz tansiyonu ve karasu adlarıyla bilinen glokom, milyonlarca insanı etkileyen yaygın bir göz hastalığıdır.Tedavi edilmezse görme kaybına neden olabilir. Glokomda, göz içindeki sıvı basıncı, görme yeteneği için gerekli olan göz sinirine zarar verecek düzeyde yüksektir. Glokom tüm dünyada en sık kalıcı görme kaybı nedenidir. Kırk yaşın üzerinde yaklaşık olarak her 40 kişiden 1'inde görülür ve hastalığın ortaya çıktığı 20 kişiden 1'inde her iki gözde kalıcı görme kaybına, yani total körlüğe neden olur. Bu hastalık iki türlü gerçekleşir: kalıcı glokom ve süreksiz glokom. Kalıcı glokom ömür boyu devam eder ama süreksiz glokom yorgun anlarda belirmeye başlar.
@@ -98,5 +98,13 @@ Diyabetik göz hastalığı olarak da bilinen diyabetik retinopati, diabetes mel
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eye_disease_simulation%2C_diabetic_retinopathy.jpg/440px-Eye_disease_simulation%2C_diabetic_retinopathy.jpg" height="300" alt="Glokom Hastalığı olan bir göz"  />
+
+</div>
+
+
+## Kullanılan kaynak(lar) 
+Wikipedia
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wikipedia-logo-v2-en.svg/1920px-Wikipedia-logo-v2-en.svg.png" height="300" alt="Glokom Hastalığı olan bir göz"  />
 
 </div>
