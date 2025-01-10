@@ -62,6 +62,7 @@ Proje Visual Studio Code ve Kaggle ortamında geliştirilmiştir.
 
 </div>
 <br>
+
 ## Proje Örnek Çıktısı
 
 <div align="center">
@@ -69,6 +70,7 @@ Proje Visual Studio Code ve Kaggle ortamında geliştirilmiştir.
 </div>
 
 <br>
+
 ## Glokom Nedir ?
 
 Glokom, göziçi sıvısının iyi boşalmaması yüzünden göz tansiyonunun artması. Halk arasında göz tansiyonu ve karasu adlarıyla bilinen glokom, milyonlarca insanı etkileyen yaygın bir göz hastalığıdır.Tedavi edilmezse görme kaybına neden olabilir. Glokomda, göz içindeki sıvı basıncı, görme yeteneği için gerekli olan göz sinirine zarar verecek düzeyde yüksektir. Glokom tüm dünyada en sık kalıcı görme kaybı nedenidir. Kırk yaşın üzerinde yaklaşık olarak her 40 kişiden 1'inde görülür ve hastalığın ortaya çıktığı 20 kişiden 1'inde her iki gözde kalıcı görme kaybına, yani total körlüğe neden olur. Bu hastalık iki türlü gerçekleşir: kalıcı glokom ve süreksiz glokom. Kalıcı glokom ömür boyu devam eder ama süreksiz glokom yorgun anlarda belirmeye başlar.
@@ -103,6 +105,7 @@ Diyabetik göz hastalığı olarak da bilinen diyabetik retinopati, diabetes mel
 
 
 ## Kullanılan kaynak(lar) 
+
 Wikipedia
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wikipedia-logo-v2-en.svg/1920px-Wikipedia-logo-v2-en.svg.png" height="300" alt="Glokom Hastalığı olan bir göz"  />
